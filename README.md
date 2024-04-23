@@ -6,10 +6,14 @@ This script is designed to automate the analysis and monitoring of log files usi
 
 **Requirements**
 
-Python 3.x
+Python 3.10
+
 subprocess module
+
 signal module
+
 sys module
+
 logging module
 
 
